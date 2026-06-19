@@ -1,7 +1,3 @@
-To document this program formally—similar to a computer science lab record or technical project specification—here is the breakdown of your project structured by **Aim, Algorithm, and Result**.
-
----
-
 ## 1. AIM
 
 To design, implement, and deploy an autonomous AI Agent using the **Google Agent Kit (ADK)** framework and the `gemini-2.5-flash` model. The agent must interact with users in natural language, detect queries regarding employee performance metrics, autonomously invoke a local Python backend tool (`fetch_user_metrics`) to retrieve real-time data from a database registry, and synthesize the raw data into a professional management summary.
